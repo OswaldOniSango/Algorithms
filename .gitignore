@@ -1,5 +1,6 @@
 target/
 .idea/
 *.iml
-.mvn/maven.config
+.DS_Store
+
 
